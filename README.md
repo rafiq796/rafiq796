@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafiq796
+- 👋 Hi, I’m @rafiq
 - 👀 I’m interested in ... Hacking
 - 🌱 I’m currently learning ... Web pentesting 
 - 💞️ I’m looking to collaborate on ...
